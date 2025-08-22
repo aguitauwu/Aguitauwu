@@ -6,11 +6,11 @@ Hola soy trans...sans, na soy agua un programador que sabe backend y frontend ma
 
 [Nebula]
 (https://discord.com/oauth2/authorize?client_id=1399120476953116793)
-hecha en node.js
+***hecha en node.js***
 
 [Archan]
 (https://discord.com/oauth2/authorize?client_id=1400529908786004028)
-hecha también en node.js pero especializada en programación
+***hecha también en node.js pero especializada en programación***
 
 las tres fueron un proyecto por diferentes motivos:
 
