@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola soy trans...sans, na soy agua un programador que sabe backend y frontend ma o meno,he programado en Astro,Java y Javascript, HTML, CSS, nose.js, typescript, python, kotlin, termux :3 y etc,pues se los lenguajes principales de frontend y backend, he creado 3 botsitos de discord :3 y me gusta Linux, el pingüino malvado D:
+Hola soy trans...sans, na soy agua un programador que sabe backend y frontend ma o meno, he programado en Astro,Java y Javascript, HTML, CSS, node.js, typescript, python, kotlin, termux :3 y etc,pues se los lenguajes principales de frontend y backend, he creado 3 botsitos de discord :3 y me gusta Linux, el pingüino malvado D:
 
 [Sakura] (https://discord.com/oauth2/authorize?client_id=1374504057481334825)
 ***fue hecha en python >w<***
