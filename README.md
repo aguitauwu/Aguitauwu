@@ -2,7 +2,7 @@
 Hola soy trans...sans, na soy agua un programador que sabe backend y frontend ma o meno, me gusta python,java,*insertar nombre de lenguaje de backend*, y de backend pues se la mayoría de lenguajes, he creado 3 botsitos de discord :3
 
 [Sakura] (https://discord.com/oauth2/authorize?client_id=1374504057481334825)
-fue hecha en python >w<
+***fue hecha en python >w<***
 
 [Nebula]
 (https://discord.com/oauth2/authorize?client_id=1399120476953116793)
