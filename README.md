@@ -10,10 +10,14 @@ hecha también en node.js pero especializada en programación
 
 las tres fueron un proyecto por diferentes motivos:
 
-# Sakura : fue pensada como un clon de nekotina pero sin cosas de pago y demás
+# Sakura 
+fue pensada como un clon de nekotina pero sin cosas de pago y demás
 
-# Nebula : pensada como la hermana de Sakura pero siendo más tímida originalmente pensada como bot de moderación usando Gemma o algún otro modelo gratis 
-# archan : inspirada en el bot de mi programadora favorita, fue inspirando en su bot pero le di un detalle programadora Kawaii 
+# Nebula
+pensada como la hermana de Sakura pero siendo más tímida originalmente pensada como bot de moderación usando Gemma o algún otro modelo gratis
+ 
+# archan 
+inspirada en el bot de mi programadora favorita, fue inspirando en su bot pero le di un detalle programadora Kawaii 
 
 
 ## 🌐 Socials:
