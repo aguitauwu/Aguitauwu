@@ -3,7 +3,7 @@ Hola soy trans...sans, na soy agua un programador que sabe backend y frontend ma
 
 #sitio web
 
-***en desarrollo***
+https://opcean-ai.vercel.app/
 
 [Sakura] (https://discord.com/oauth2/authorize?client_id=1374504057481334825)
 ***fue hecha en python >w<***
