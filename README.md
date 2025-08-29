@@ -48,7 +48,7 @@ flavor = "Artix,Arch"
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 - - -
-##bots
+## Bots
 [Sakura] (https://discord.com/oauth2/authorize?client_id=1374504057481334825)
 ***fue hecha en python >w<***
 
