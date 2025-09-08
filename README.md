@@ -48,28 +48,6 @@ flavor = "Artix,Arch"
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 - - -
-## Bots
-[Sakura] (https://discord.com/oauth2/authorize?client_id=1374504057481334825)
-***fue hecha en python >w<***
-
-[Nebula]
-(https://discord.com/oauth2/authorize?client_id=1399120476953116793)
-***hecha en node.js***
-
-[Archan]
-(https://discord.com/oauth2/authorize?client_id=1400529908786004028)
-***hecha también en node.js pero especializada en programación***
-
-las tres fueron un proyecto por diferentes motivos:
-
-# Sakura 
-fue pensada como un clon de nekotina pero sin cosas de pago y demás
-
-# Nebula
-pensada como la hermana de Sakura pero siendo más tímida originalmente pensada como bot de moderación usando Gemma o algún otro modelo gratis
  
-# archan 
-inspirada en el bot de mi programadora favorita, fue inspirando en su bot pero le di un detalle programadora Kawaii 
-
 Mondongo lover.
 <img width="1615" height="250" alt="1000038303" src="https://github.com/user-attachments/assets/dfb942e6-c0fc-4afb-9ed9-5da2581d3a68" />
