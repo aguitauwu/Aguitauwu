@@ -2,7 +2,11 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CFs7tmhR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aguita_frexa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@アグイタちゃん) 
 
 <img width="1478" height="105" alt="1000038307" src="https://github.com/user-attachments/assets/3732c32c-ceb8-4666-9a5b-5025a905e0f4" />
-Hewo! I'm Aguita, a smol programmer and Linux lover (the evil penguin D:). I love testing with computers, VPS, data centers, and anything I come across =w=. Feel free to talk to me!
+Hey, I'm awa_omg (yep, the one from YuuKi). I'm the creator of OpceanAI, Vexis, Nhe, Gitsune, and Japy. I run a phone with a Snapdragon 685, 8GB of RAM, and an endless supply of patience lol. Anyway, feel free to hit me up anytime—even if sometimes I end up crying because NumPy refuses to compile :c
+You can reach me at:
+opceanai@gmail.com
+contact@opceanai.com
+aguitachan3@gmail.com
 
 
 ```toml
