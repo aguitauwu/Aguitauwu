@@ -112,6 +112,6 @@ Primary systems: Artix, Arch Linux, Debian, Fedora
 Open to collaborations in advanced AI research, machine learning optimization, and full-stack development. Interested in innovative approaches to model efficiency, security, and reasoning capabilities.
 
 
-##mondongo llover
+## Mondongo lover
 
 ![posnomas](https://github-production-user-asset-6210df.s3.amazonaws.com/212803252/483739862-dfb942e6-c0fc-4afb-9ed9-5da2581d3a68.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260329%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260329T232343Z&X-Amz-Expires=300&X-Amz-Signature=36b07bcb716cb978371018396ab4c1026417cae04e79da34d15e8e8381afe978&X-Amz-SignedHeaders=host)
