@@ -69,7 +69,7 @@ Full-stack developer and ML engineer based in Mexico (es-MX). Passionate about b
 
 ---
 
-## Core Specializations
+## Core Specializations (https://github-production-user-asset-6210df.s3.amazonaws.com/212803252/483739611-3732c32c-ceb8-4666-9a5b-5025a905e0f4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260329%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260329T232353Z&X-Amz-Expires=300&X-Amz-Signature=ef62f7f608fc5e8eeb4ef278e04f7efb7cfbbdcbcf3601329b18c96cee85d56e&X-Amz-SignedHeaders=host)
 
 - **Large Language Models:** Model development, fine-tuning, optimization, and evaluation
 - **AI Systems Architecture:** LLM deployment, inference optimization, and benchmarking
