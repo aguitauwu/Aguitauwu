@@ -25,11 +25,11 @@ icon = "🫧"
 
 [langs]
 fav = "Python, Javascript, Astro, React, TypeScript,"
-most_used = "TypeScript, Python, Astro"
+most_used = "TypeScript, Python, Pytorch, Transformers, Axolot, Unsloth, Jax, Nexjs, Numpy, Dataset, Pandas, Yuuki:3"
 
 [os]
 kernel = "linux"
-flavor = "Artix,Arch"
+flavor = "Artix,Arch,Debían,Fedora,Red Star os"
 ```
 
 ## Skills
