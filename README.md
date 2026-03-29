@@ -6,7 +6,7 @@
 
 ## Contact & Socials
 
-**Email:** opceanai@gmail.com | contact@opceanai.com | aguitachan3@gmail.com
+**Email:** opceanai@gmail.com contact@opceanai.com  aguitachan3@gmail.com
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CFs7tmhR)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aguita_frexa)
