@@ -24,7 +24,7 @@ drink = "Water "
 icon = "🫧"
 
 [langs]
-fav = "Python, Javascript, Astro, React, TypeScript,"
+fav = "Python, Typescript, pytorch, Flux, TypeScript,"
 most_used = "TypeScript, Python, Pytorch, Transformers, Axolot, Unsloth, Jax, Nexjs, Numpy, Dataset, Pandas, Yuuki:3"
 
 [os]
