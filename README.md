@@ -83,13 +83,20 @@ Full-stack developer and ML engineer based in Mexico (es-MX). Passionate about b
 ## Featured Projects
 
 ### OpceanAI
-Advanced language model development platform. Creator of **YuuKi RxG 8B**, an 8-billion parameter model achieving **96.6% accuracy on TruthfulQA** and excelling in truthfulness benchmarks. Focuses on building efficient, reliable, and trustworthy AI models.
+Advanced language model development startup. Creator of **YuuKi RxG 8B**, an 8-billion parameter model achieving **96.6% accuracy on TruthfulQA**. Focused on building efficient, reliable, and verifiable AI models with superior performance in reasoning and truthfulness evaluation.
 
-### Vexis (Vector Encrypted Xor Interference System)
-Innovative encryption system leveraging AI vector representations combined with quantization techniques. Provides a novel approach to data security by integrating machine learning with cryptographic principles.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/OpceanAI)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/OpceanAI)
 
-### NHE (Not Humanity's Exam)
-Specialized LLM benchmark designed to measure reasoning capabilities independent of learned human patterns. Evaluates model truthfulness and reasoning authenticity, ensuring models generate outputs based on genuine understanding rather than pattern memorization.
+### Vexis
+**Vector Encrypted Xor Interference System** - Encryption system combining AI vector representations with quantization techniques. Integrates machine learning with cryptographic principles for a novel approach to data security.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/VEX-IS)
+
+### NHE
+**Not Humanity's Exam** - Specialized LLM benchmark measuring reasoning capabilities independent of learned human patterns. Evaluates model truthfulness and reasoning authenticity, ensuring outputs reflect genuine understanding rather than pattern memorization.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Not-Humanity-Exam)
 
 ### Gitsune
 Enhanced fork of Forgejo with improved user interface and expanded tooling capabilities. Optimized for developer experience with additional features and streamlined workflows for collaborative development.
