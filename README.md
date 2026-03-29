@@ -6,14 +6,15 @@
 
 ## Contact & Socials
 
-**Email:** 
-opceanai@gmail.com 
-contact@opceanai.com 
-aguitachan3@gmail.com
+**Email:** opceanai@gmail.com | contact@opceanai.com | aguitachan3@gmail.com
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CFs7tmhR)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aguita_frexa)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@アグイタちゃん)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aguitauwu)
+[![OpceanAI](https://img.shields.io/badge/OpceanAI-7c3aed?logo=github&logoColor=white)](https://github.com/OpceanAI)
+[![YuuKi-OS](https://img.shields.io/badge/YuuKi--OS-ec4899?logo=github&logoColor=white)](https://github.com/YuuKi-OS)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/OpceanAI)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/CFs7tmhR)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://instagram.com/aguita_frexa)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://youtube.com/@@アグイタちゃん)
 
 ---
 
