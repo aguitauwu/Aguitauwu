@@ -6,7 +6,10 @@
 
 ## Contact & Socials
 
-**Email:** opceanai@gmail.com | contact@opceanai.com | aguitachan3@gmail.com
+**Email:** 
+opceanai@gmail.com
+contact@opceanai.com
+aguitachan3@gmail.com
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aguitauwu)
 [![OpceanAI](https://img.shields.io/badge/OpceanAI-7c3aed?logo=github&logoColor=white)](https://github.com/OpceanAI)
