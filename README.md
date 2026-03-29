@@ -105,8 +105,28 @@ Enhanced fork of Forgejo with improved user interface and expanded tooling capab
 Next-generation LLM training framework designed to overcome transformer limitations. Implements novel training methodologies to achieve superior model performance, efficiency, and scalability beyond traditional transformer-based approaches.
 
 ### Japy
-Functional JavaScript runtime and interpreter enabling execution of JavaScript code within other programming languages through decorator-based syntax. Allows seamless JavaScript embedding without requiring actual language embedding or WebAssembly compilation.
+JavaScript runtime and interpreter for embedding JavaScript functionality within other programming languages using decorator-based syntax. Execute real JavaScript logic alongside Python without WebAssembly overhead.
 
+```python
+from japy import js
+
+print("This is Python")
+
+@js
+def block():
+    """
+    const name = "Awa";
+    console.log(`Hello ${name}`);
+    
+    const arr = [1, 2, 3].map(x => x * 2);
+    console.log(arr);
+    
+    setTimeout(() => {
+        console.log("delayed");
+    }, 1000);
+    """
+
+print("Back to Python")
 ---
 
 ## Operating Systems
