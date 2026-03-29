@@ -4,7 +4,8 @@
 <img width="1478" height="105" alt="1000038307" src="https://github.com/user-attachments/assets/3732c32c-ceb8-4666-9a5b-5025a905e0f4" />
 Hey, I'm awa_omg (yep, the one from YuuKi). I'm the creator of OpceanAI, Vexis, Nhe, Gitsune, and Japy. I run a phone with a Snapdragon 685, 8GB of RAM, and an endless supply of patience lol. Anyway, feel free to hit me up anytime—even if sometimes I end up crying because NumPy refuses to compile :c
 
-##You can reach me at:
+
+You can reach me at:
 
 opceanai@gmail.com
 
