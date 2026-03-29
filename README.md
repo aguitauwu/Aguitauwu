@@ -84,7 +84,7 @@ Advanced language model development platform. Creator of **YuuKi RxG 8B**, an 8-
 ### Vexis (Vector Encrypted Xor Interference System)
 Innovative encryption system leveraging AI vector representations combined with quantization techniques. Provides a novel approach to data security by integrating machine learning with cryptographic principles.
 
-### NHE (Neural Honesty Evaluation)
+### NHE (not humanity's exam)
 Specialized LLM benchmark designed to measure reasoning capabilities independent of learned human patterns. Evaluates model truthfulness and reasoning authenticity, ensuring models generate outputs based on genuine understanding rather than pattern memorization.
 
 ### Gitsune
